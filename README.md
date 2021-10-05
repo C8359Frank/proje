@@ -1,4 +1,4 @@
 # proje
 Devops proje
-İçin her gün
+için her gün
 çalışalım.

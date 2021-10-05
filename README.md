@@ -1,4 +1,4 @@
 # proje
 Devops proje
 İçin 
-çalış
+çalışalım.

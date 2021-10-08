@@ -1,4 +1,4 @@
 # proje
-Devops proje
+Devops projesi
 için her gün
 çalışalım sıkıca.

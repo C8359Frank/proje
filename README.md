@@ -1,5 +1,4 @@
 # proje
 Devops proje
 için her gün
-çalışalım.
-Tamam 
+çalışalım sıkıca.

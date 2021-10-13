@@ -1,4 +1,4 @@
 # proje
 Devops projesi
 için her gün
-çalışalım iyi şekilde de çalış
+çalışalım iyi şekilde de çalışalım

@@ -1,4 +1,4 @@
 # proje
 Devops projesi
-için her gün
+için always
 Studying

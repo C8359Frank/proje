@@ -1,4 +1,4 @@
 # proje
 Devops projesi
-için always da
+için always da a
 Studying

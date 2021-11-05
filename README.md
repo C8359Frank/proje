@@ -1,2 +1,2 @@
 # proje
-study for you
+study for your career

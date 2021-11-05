@@ -1,2 +1,2 @@
 # proje
-study
+study for you

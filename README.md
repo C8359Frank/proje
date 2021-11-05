@@ -1,2 +1,2 @@
 # proje
-sty
+study

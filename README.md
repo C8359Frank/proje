@@ -1,3 +1,2 @@
 # proje
-study for your career
-asd
+study for your career program.

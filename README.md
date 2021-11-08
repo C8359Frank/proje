@@ -1,2 +1,2 @@
 # proje
-study for your career program.
+study for your career programs.
